@@ -1,14 +1,5 @@
-<!-- 3D / dimensional wordmark banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,100:2c5364&height=200&section=header&text=REYHAAN%20ANSARI&fontSize=56&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Student&descAlignY=68&descSize=18" width="100%"/>
-</p>
-
-<!-- Animated typing tagline -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+secure+full-stack+apps;Java+%7C+PHP+%7C+React+%7C+Node.js;Exploring+ML+%2C+Blockchain+%26+Automation;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Hi there, I'm Reyhaan Ansari 👋</h1>
+<h3 align="center">Tech-driven Student | Full-Stack Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reyhaan-ansari" target="_blank">
@@ -76,34 +67,6 @@ Motivated and tech-driven student with a strong foundation in **programming, web
 
 ---
 
-### 🚀 Contribution Space Shooter
-
-My contribution graph, turned into a game — each commit is a target, and a ship blasts through them wave by wave. Regenerates daily via GitHub Action (setup below).
-
-<p align="center">
-  <img src="./game.gif" width="80%" alt="GitHub contribution space shooter game" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-Same idea, snake-style — it eats its way through the contribution grid.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Reyhaan5/Reyhaan5/output/github-contribution-snake.svg" width="80%" alt="Contribution snake animation" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reyhaan5&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -113,14 +76,6 @@ Same idea, snake-style — it eats its way through the contribution grid.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reyhaan5&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏅 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reyhaan5&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
